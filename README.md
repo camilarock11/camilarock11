@@ -1,9 +1,10 @@
 ## Oiii eu sou a Camila Roque, desenvolvedora e designer grafica!
 <div align="center">
   <a href="https://github.com/camilarock11">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=camilarock11&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilarock11&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=camilarock11&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilarock11&layout=compact&langs_count=7&theme=radical"/>
 </div>
+
 <div style="display: inline_block"><br>
   
 <img align="center" alt="Swift" height="35" width="35" src="https://github.com/camilarock11/camilarock11/assets/54505823/4eb372b2-b370-4a5f-896c-b8f5d74c4ce4">
