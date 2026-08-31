@@ -186,6 +186,14 @@ A feature I won't hate maintaining later ✨
 
 <img src="https://streak-stats.demolab.com?user=camilarock11&theme=midnight-purple&hide_border=true" />
 
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/camilarock11/camilarock11/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/camilarock11/camilarock11/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation eating Camila's GitHub contributions" src="https://raw.githubusercontent.com/camilarock11/camilarock11/output/github-contribution-grid-snake.svg" />
+</picture>
+
 </div>
 
 ---
