@@ -1,62 +1,62 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=220&section=header&text=Camila%20Roque&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Developer%20%E2%80%A2%20Writer%20%E2%80%A2%20Creative%20mind&descAlignY=55&descSize=18" />
-
-<img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=600&size=23&duration=2800&pause=900&color=C77DFF&center=true&vCenter=true&width=760&lines=iOS+Developer+at+heart+%F0%9F%8D%8E;I+build+apps%2C+stories+and+ideas+%E2%9C%A8;Swift+%2B+creativity+%2B+an+obsession+with+details;Code+is+one+of+the+ways+I+create.;Writing+is+another.+%E2%9C%8D%EF%B8%8F" />
+<img width="100%" src="./assets/profile-hero.svg" alt="Animated Camila Roque profile banner" />
 
 <br/>
 
-### `🍎 iOS Developer` · `✍🏻 Writer` · `✨ Always creating something`
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2600&pause=900&color=C77DFF&center=true&vCenter=true&width=820&lines=some+days%3A+Xcode+%E2%86%92+some+days%3A+chapter+drafts+%E2%86%92+usually%3A+both;I+build+things.+I+write+things.+I+overthink+tiny+details.;one+brain%2C+too+many+ideas%2C+an+unreasonable+number+of+tabs.;code+is+one+way+to+create.+words+are+another." alt="Animated introduction" />
 
-**I like building things that feel intentional — whether it's an app, a story or an idea.**
+<br/>
+
+**Apps, stories, interfaces, ideas — I like turning things that exist in my head into things that exist in the world.**
 
 </div>
 
 ---
 
-## Hello, I'm Camila 👋
+## Hi — I'm Camila. Rock works too. 🪨
 
-Or **Rock**, if you prefer. 🪨
+I'm an **iOS Developer, writer and creative person** with a habit of turning *“what if?”* into a project.
 
-I'm an **iOS Developer** who loves turning complex ideas into experiences that feel simple, thoughtful and well made.
+Professionally, my main playground is the Apple ecosystem. I love building iOS experiences and thinking beyond the screen itself: architecture, state, flow, words, visual consistency, edge cases and the small decisions that make something feel intentional.
 
-I care about the whole thing: the architecture behind a feature, the tiny spacing nobody else noticed, the words on a button, the flow between screens, and whether the final experience actually makes sense for the person using it.
+But I don't only think in code.
 
-But code is only one of the ways I create.
+I write stories. I care about design. I collect ideas. I rewrite things that were already “done”. And I have a suspicious talent for transforming a tiny thought into an entire side project. 😂
 
-I'm also a **writer** and a naturally creative person. I like stories, design, visual details and projects that start as a random idea and somehow become something real. I tend to have more ideas than free time — which explains both my GitHub and my notes app. 😂
-
-> **Build it. Rewrite it. Question it. Make it better.**
+> **Build it. Write it. Question it. Make it better.**
 
 ---
+
+## Three modes. Same brain.
 
 <table>
 <tr>
 <td width="33%" valign="top" align="center">
 
-### 🍎 Build
+### 🍎 BUILD
 
-I build iOS experiences with a strong focus on **quality, architecture and maintainability**.
+**iOS is home.**
 
-Swift is home.
-
-</td>
-<td width="33%" valign="top" align="center">
-
-### ✍🏻 Write
-
-Stories are another kind of architecture.
-
-I'm currently writing **_Qual Desses é Verdadeiro?_**, a personal long-form project that has been growing alongside me.
+Swift, architecture, interfaces, APIs, concurrency, reusable components and the never-ending search for a cleaner solution.
 
 </td>
 <td width="33%" valign="top" align="center">
 
-### ✨ Create
+### ✍🏻 WRITE
 
-I love taking an idea from *"what if...?"* to something people can actually see, use, read or experience.
+**Some ideas need chapters, not views.**
 
-That's usually where the fun starts.
+I'm writing **_Qual Desses é Verdadeiro?_**, a long-form personal project built through scenes, memories, questions and a lot of rewriting.
+
+</td>
+<td width="33%" valign="top" align="center">
+
+### ✨ CREATE
+
+**The format comes after the idea.**
+
+Sometimes it's an app. Sometimes a story. Sometimes a visual concept. Usually it starts with *“okay, hear me out...”*.
 
 </td>
 </tr>
@@ -64,7 +64,7 @@ That's usually where the fun starts.
 
 ---
 
-## 🍎 iOS is my main playground
+## 🍎 When I'm building
 
 <div align="center">
 
@@ -81,10 +81,10 @@ That's usually where the fun starts.
 
 </div>
 
-I work mostly with **Swift, SwiftUI and UIKit**, and I enjoy the engineering decisions that live beyond the screen itself: state management, concurrency, reusable components, architecture, APIs, testing and the endless question of *"how do we make this cleaner?"*
+I work mostly with **Swift, SwiftUI and UIKit**. I enjoy the point where engineering and experience meet — when good architecture makes a feature easier to evolve and good product thinking makes it nicer to use.
 
 <details>
-<summary><b>🧰 Open my toolbox</b></summary>
+<summary><b>🧰 Open the toolbox</b></summary>
 <br/>
 
 **iOS**  
@@ -103,59 +103,64 @@ I work mostly with **Swift, SwiftUI and UIKit**, and I enjoy the engineering dec
 
 ---
 
-## 🚀 What I'm building now
+## 🚀 Currently in the lab
 
 ### 🔎 [GitHubExplorer-iOS](https://github.com/camilarock11/GitHubExplorer-iOS)
 
-A GitHub client I'm building as part of a bigger goal: creating **substantial iOS portfolio projects that feel like real products**, not isolated tutorial exercises.
+A GitHub client I'm building as part of a bigger goal: creating **substantial iOS projects that behave like real products** instead of isolated tutorial exercises.
 
-The fun part isn't just making a screen work. It's thinking about structure, states, APIs, reusable components, failure scenarios, maintainability and all the decisions that show up when a project starts becoming *real*.
+That means caring about more than a happy-path screen: architecture, APIs, loading and error states, reusable components, failure scenarios, maintainability and all the weird little decisions that appear once an app starts becoming real.
 
 <a href="https://github.com/camilarock11/GitHubExplorer-iOS">
-<img src="https://img.shields.io/badge/Explore_GitHubExplorer--iOS-7B2CBF?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/OPEN_THE_PROJECT-7B2CBF?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 ---
 
-## 🧠 How my brain usually works
+## ✍🏻 When I'm writing
 
-```text
-"I have an idea."
-        ↓
-"This should be simple."
-        ↓
-opens Xcode / Notes / Figma / seventeen tabs
-        ↓
-"Okay... what if we made it better?"
-        ↓
-new project unlocked ✨
-```
+Code has rules. Stories have consequences.
 
-I like understanding **why** something works, not only getting it to compile.
+**_Qual Desses é Verdadeiro?_** is the project where I explore the other side of how my brain works: scenes, people, memory, perspective and the uncomfortable question of how differently the same story can look depending on who is telling it.
 
-That usually means I care a little too much about architecture, naming, edge cases, UX, visual consistency and the sentence someone is going to read on a screen for half a second.
-
-And yes, I will probably refactor the thing that was already working. 😌
+Writing scratches a very different itch than development — and somehow still involves versioning, restructuring, deleting things I swore were finished and staring at one sentence for far too long. So... maybe not *that* different. 😂
 
 ---
 
-## ✍🏻 Outside Xcode
+## 🎛️ Rock OS
 
 <details>
-<summary><b>There's more than code in here</b></summary>
+<summary><b>boot sequence ▸ click to open</b></summary>
 <br/>
 
-I write because some ideas don't belong in an app.
+```text
+rock@github:~$ whoami
+Camila Roque
 
-I create because some ideas don't belong only in my head.
+rock@github:~$ modes
+[ BUILD ] [ WRITE ] [ CREATE ]
 
-I like design because details change how something feels.
+rock@github:~$ defaults
+curiosity        = true
+details          = "important"
+new_ideas        = "constantly"
+coffee           = false
+open_tabs        = "please don't ask"
+finished_project = "define finished"
 
-And I'm endlessly curious, which is a very elegant way of saying I can turn almost anything into a new project. 😂
-
-Also, despite what every developer bio on the internet suggests: **I don't like coffee.**
+rock@github:~$ status
+turning another idea into something real...
+█
+```
 
 </details>
+
+---
+
+## A few things that tend to be true
+
+`I will notice the spacing.` · `I will ask what happens in the edge case.` · `I will rename it three times.`  
+`I probably have a draft for it.` · `I like big projects.` · `I don't like coffee.` 😂
 
 ---
 
@@ -177,13 +182,10 @@ Also, despite what every developer bio on the internet suggests: **I don't like 
 
 <br/><br/>
 
-### `code is one way to create.`
-### `words are another.`
+### `build something.`
+### `write something.`
+### `leave it better than you found it.`
 
 <sub>Usually powered by curiosity, stubbornness and far too many ideas. 💜</sub>
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,18,14,12&height=120&section=footer" />
 
 </div>

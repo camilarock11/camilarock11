@@ -1,0 +1,111 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0D0618"/>
+      <stop offset="0.48" stop-color="#170B2A"/>
+      <stop offset="1" stop-color="#090510"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="170" y1="0" x2="980" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7B2CBF">
+        <animate attributeName="stop-color" values="#7B2CBF;#C77DFF;#7B2CBF" dur="7s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="0.5" stop-color="#C77DFF">
+        <animate attributeName="stop-color" values="#C77DFF;#E0AAFF;#C77DFF" dur="7s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="1" stop-color="#FF7EB6">
+        <animate attributeName="stop-color" values="#FF7EB6;#9D4EDD;#FF7EB6" dur="7s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <radialGradient id="glowPurple" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(948 100) rotate(90) scale(180)">
+      <stop stop-color="#9D4EDD" stop-opacity="0.34"/>
+      <stop offset="1" stop-color="#9D4EDD" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowPink" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(160 320) rotate(90) scale(170)">
+      <stop stop-color="#FF7EB6" stop-opacity="0.20"/>
+      <stop offset="1" stop-color="#FF7EB6" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="softGlow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <path id="orbitPath" d="M 1015 180 C 1015 115 930 92 860 120 C 790 148 790 212 860 240 C 930 268 1015 245 1015 180 Z"/>
+  </defs>
+
+  <rect width="1200" height="360" rx="28" fill="url(#bg)"/>
+  <rect x="1" y="1" width="1198" height="358" rx="27" stroke="#C77DFF" stroke-opacity="0.16" stroke-width="2"/>
+
+  <circle cx="948" cy="100" r="180" fill="url(#glowPurple)">
+    <animate attributeName="opacity" values="0.55;1;0.55" dur="6s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="160" cy="320" r="170" fill="url(#glowPink)">
+    <animate attributeName="opacity" values="0.35;0.85;0.35" dur="8s" repeatCount="indefinite"/>
+  </circle>
+
+  <g opacity="0.58">
+    <circle cx="55" cy="42" r="5" fill="#FF7EB6"/>
+    <circle cx="74" cy="42" r="5" fill="#E0AAFF"/>
+    <circle cx="93" cy="42" r="5" fill="#7B2CBF"/>
+    <text x="116" y="47" fill="#B9A7CC" font-size="15" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">~/camila/profile</text>
+  </g>
+
+  <path d="M 45 70 H 1155" stroke="url(#accent)" stroke-opacity="0.35" stroke-width="1.4" stroke-dasharray="14 18">
+    <animate attributeName="stroke-dashoffset" from="0" to="-64" dur="4s" repeatCount="indefinite"/>
+  </path>
+
+  <text x="62" y="146" fill="#FFFFFF" font-size="52" font-weight="760" font-family="Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" letter-spacing="1.8">CAMILA ROQUE</text>
+  <text x="65" y="181" fill="#C9B6D9" font-size="18" font-weight="500" font-family="Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" letter-spacing="0.7">iOS DEVELOPER  •  WRITER  •  CREATIVE MIND</text>
+
+  <g transform="translate(64 222)">
+    <text x="0" y="30" fill="#8E7DA0" font-size="17" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">$ current_mode =</text>
+
+    <text x="176" y="30" fill="url(#accent)" font-size="28" font-weight="760" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">BUILD
+      <animate attributeName="opacity" values="1;1;0;0;0;0;1" keyTimes="0;0.27;0.34;0.61;0.68;0.94;1" dur="9s" repeatCount="indefinite"/>
+    </text>
+    <text x="176" y="30" fill="url(#accent)" font-size="28" font-weight="760" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" opacity="0">WRITE
+      <animate attributeName="opacity" values="0;0;1;1;0;0;0" keyTimes="0;0.27;0.34;0.61;0.68;0.94;1" dur="9s" repeatCount="indefinite"/>
+    </text>
+    <text x="176" y="30" fill="url(#accent)" font-size="28" font-weight="760" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" opacity="0">CREATE
+      <animate attributeName="opacity" values="0;0;0;0;1;1;0" keyTimes="0;0.27;0.34;0.61;0.68;0.94;1" dur="9s" repeatCount="indefinite"/>
+    </text>
+
+    <rect x="286" y="9" width="10" height="25" rx="2" fill="#E0AAFF">
+      <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <text x="65" y="318" fill="#8F819D" font-size="14" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">Swift  •  stories  •  design  •  ideas that refuse to stay in my head</text>
+
+  <g opacity="0.42">
+    <path d="M 790 180 C 790 115 875 92 945 120 C 1015 148 1015 212 945 240 C 875 268 790 245 790 180 Z" stroke="#C77DFF" stroke-width="1.2" stroke-dasharray="8 12">
+      <animate attributeName="stroke-dashoffset" from="0" to="-40" dur="5s" repeatCount="indefinite"/>
+    </path>
+    <circle r="6" fill="#E0AAFF" filter="url(#softGlow)">
+      <animateMotion dur="7s" repeatCount="indefinite" rotate="auto">
+        <mpath href="#orbitPath"/>
+      </animateMotion>
+    </circle>
+    <circle r="3.5" fill="#FF7EB6">
+      <animateMotion dur="10s" begin="-3s" repeatCount="indefinite" rotate="auto">
+        <mpath href="#orbitPath"/>
+      </animateMotion>
+    </circle>
+  </g>
+
+  <g transform="translate(865 145)">
+    <circle cx="58" cy="36" r="37" fill="#12091E" stroke="#C77DFF" stroke-opacity="0.4"/>
+    <circle cx="58" cy="36" r="25" fill="#1A0D2A" stroke="#E0AAFF" stroke-opacity="0.28">
+      <animate attributeName="r" values="23;28;23" dur="4s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.6;1;0.6" dur="4s" repeatCount="indefinite"/>
+    </circle>
+    <text x="58" y="43" text-anchor="middle" fill="#F4E9FF" font-size="18" font-weight="700" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">CR</text>
+  </g>
+
+  <g opacity="0.52" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12">
+    <text x="1032" y="306" fill="#BFA8D2">01 build</text>
+    <text x="1032" y="324" fill="#BFA8D2">02 write</text>
+    <text x="1032" y="342" fill="#BFA8D2">03 create</text>
+  </g>
+</svg>
