@@ -1,145 +1,62 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=210&section=header&text=Camila%20Roque&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=iOS%20Developer%20%E2%80%A2%20Swift%20%E2%80%A2%20SwiftUI%20%E2%80%A2%20UIKit&descAlignY=54&descSize=17" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=220&section=header&text=Camila%20Roque&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Developer%20%E2%80%A2%20Writer%20%E2%80%A2%20Creative%20mind&descAlignY=55&descSize=18" />
 
-<img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=600&size=22&duration=2800&pause=900&color=C77DFF&center=true&vCenter=true&width=720&lines=Building+for+the+Apple+ecosystem+%F0%9F%8D%8E;Swift+%2B+SwiftUI+%2B+UIKit+%F0%9F%92%9C;Architecture%2C+product+thinking+%26+good+UX;Turning+complex+flows+into+simple+experiences+%E2%9C%A8;Tiny+tutorial+apps%3F+We%27re+past+that+%F0%9F%98%8C" />
-
-<br/>
-
-### `👩🏻‍💻 iOS Developer` · `💳 Payments` · `✨ Design-minded`
-
-**Code should work. Interfaces should feel good. Architecture should make sense.**
+<img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=600&size=23&duration=2800&pause=900&color=C77DFF&center=true&vCenter=true&width=760&lines=iOS+Developer+at+heart+%F0%9F%8D%8E;I+build+apps%2C+stories+and+ideas+%E2%9C%A8;Swift+%2B+creativity+%2B+an+obsession+with+details;Code+is+one+of+the+ways+I+create.;Writing+is+another.+%E2%9C%8D%EF%B8%8F" />
 
 <br/>
 
-<a href="https://github.com/camilarock11?tab=followers"><img src="https://img.shields.io/github/followers/camilarock11?style=for-the-badge&logo=github&label=FOLLOWERS&color=7B2CBF" /></a>
-<img src="https://komarev.com/ghpvc/?username=camilarock11&style=for-the-badge&color=7B2CBF&label=PROFILE+VIEWS" />
+### `🍎 iOS Developer` · `✍🏻 Writer` · `✨ Always creating something`
+
+**I like building things that feel intentional — whether it's an app, a story or an idea.**
 
 </div>
 
 ---
 
-## 👋 About me
+## Hello, I'm Camila 👋
 
-```swift
-struct Camila: Developer {
-    let nickname = "Rock" 🪨
-    let role = "iOS Developer"
+Or **Rock**, if you prefer. 🪨
 
-    let mainStack = [
-        "Swift",
-        "SwiftUI",
-        "UIKit"
-    ]
+I'm an **iOS Developer** who loves turning complex ideas into experiences that feel simple, thoughtful and well made.
 
-    let architecture = [
-        "MVVM",
-        "MVVM-C",
-        "Clean Architecture"
-    ]
+I care about the whole thing: the architecture behind a feature, the tiny spacing nobody else noticed, the words on a button, the flow between screens, and whether the final experience actually makes sense for the person using it.
 
-    let interests = [
-        "iOS Architecture",
-        "Payments",
-        "Design Systems",
-        "Developer Experience",
-        "Building real products"
-    ]
+But code is only one of the ways I create.
 
-    var currentMission: String {
-        "Build bigger, production-minded iOS projects 🚀"
-    }
-}
-```
+I'm also a **writer** and a naturally creative person. I like stories, design, visual details and projects that start as a random idea and somehow become something real. I tend to have more ideas than free time — which explains both my GitHub and my notes app. 😂
 
-I'm an **iOS Developer focused on scalable, maintainable and polished mobile experiences**, especially around complex product flows.
-
-My happy place is somewhere between **Swift**, **architecture**, **product thinking** and that tiny UI detail nobody else noticed but now I absolutely need to fix. 😂
-
-I like projects that feel like **real products** — multiple screens, APIs, architecture decisions, states, edge cases, tests and actual engineering challenges.
-
-> **Tiny tutorial apps had their moment. We're building the serious stuff now.** 😌
+> **Build it. Rewrite it. Question it. Make it better.**
 
 ---
-
-## 🍎 Apple Developer Toolbox
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=swift,apple,git,github,firebase&theme=dark" />
-
-<br/><br/>
-
-![Swift](https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge&logo=swift&logoColor=white)
-![UIKit](https://img.shields.io/badge/UIKit-111111?style=for-the-badge&logo=apple&logoColor=white)
-![MVVM](https://img.shields.io/badge/MVVM-7B2CBF?style=for-the-badge)
-![async/await](https://img.shields.io/badge/async%2Fawait-5A189A?style=for-the-badge&logo=swift&logoColor=white)
-![Combine](https://img.shields.io/badge/Combine-C77DFF?style=for-the-badge&logo=apple&logoColor=white)
-
-</div>
-
-### Things I work with
-
-`Swift` · `SwiftUI` · `UIKit` · `Objective-C` · `MVVM` · `MVVM-C` · `Clean Architecture`  
-`async/await` · `Combine` · `URLSession` · `AVFoundation` · `Firebase`  
-`Git` · `GitHub` · `GitHub Actions` · `Fastlane` · `REST APIs`
-
-<details>
-<summary><b>🌎 Side quests outside iOS</b></summary>
-<br/>
-
-Sometimes I leave Xcode. Apparently there is a whole world outside Apple's ecosystem. 😂
-
-`React` · `TypeScript` · `JavaScript` · `HTML` · `CSS`
-
-</details>
-
----
-
-## 🚀 Currently building
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top" align="center">
 
-### 🔎 GitHubExplorer-iOS
+### 🍎 Build
 
-A production-minded GitHub client built as part of my iOS portfolio.
+I build iOS experiences with a strong focus on **quality, architecture and maintainability**.
 
-**Focus**
-
-- MVVM
-- API integration
-- Swift concurrency
-- Scalable architecture
-- Loading / empty / error states
-- Reusable components
-- Real-world Git workflow
-
-<a href="https://github.com/camilarock11/GitHubExplorer-iOS">
-<img src="https://img.shields.io/badge/View_repository-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+Swift is home.
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top" align="center">
 
-### 🧪 Next experiments
+### ✍🏻 Write
 
-My portfolio is focused on **larger iOS applications**, built incrementally like real products instead of isolated tutorial projects.
+Stories are another kind of architecture.
 
-Expect things involving:
+I'm currently writing **_Qual Desses é Verdadeiro?_**, a personal long-form project that has been growing alongside me.
 
-- Payments
-- APIs
-- Design Systems
-- Offline states
-- Authentication
-- Modularization
-- Testing
-- CI/CD
+</td>
+<td width="33%" valign="top" align="center">
 
-**Status:** `shipping things...` 🚀
+### ✨ Create
+
+I love taking an idea from *"what if...?"* to something people can actually see, use, read or experience.
+
+That's usually where the fun starts.
 
 </td>
 </tr>
@@ -147,121 +64,102 @@ Expect things involving:
 
 ---
 
-## 🧠 How I like to build
-
-```text
-Feature
- ├── View
- ├── ViewModel
- ├── Model
- ├── Service
- ├── Repository
- └── Tests
-```
-
-```text
-Readable code
-      +
-Clear responsibilities
-      +
-Predictable state
-      +
-Good UX
-      +
-Tests where they matter
-      ↓
-A feature I won't hate maintaining later ✨
-```
-
----
-
-## 📊 GitHub activity
+## 🍎 iOS is my main playground
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=camilarock11&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilarock11&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8" />
+<img src="https://skillicons.dev/icons?i=swift,apple,git,github,firebase&theme=dark" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=camilarock11&theme=midnight-purple&hide_border=true" />
-
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/camilarock11/camilarock11/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/camilarock11/camilarock11/output/github-contribution-grid-snake.svg" />
-  <img alt="Snake animation eating Camila's GitHub contributions" src="https://raw.githubusercontent.com/camilarock11/camilarock11/output/github-contribution-grid-snake.svg" />
-</picture>
+![Swift](https://img.shields.io/badge/Swift-F54A2A?style=flat-square&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?style=flat-square&logo=swift&logoColor=white)
+![UIKit](https://img.shields.io/badge/UIKit-111111?style=flat-square&logo=apple&logoColor=white)
+![Objective--C](https://img.shields.io/badge/Objective--C-438EFF?style=flat-square&logo=apple&logoColor=white)
+![MVVM](https://img.shields.io/badge/MVVM-7B2CBF?style=flat-square)
+![async/await](https://img.shields.io/badge/async%2Fawait-5A189A?style=flat-square&logo=swift&logoColor=white)
 
 </div>
 
----
-
-## 🌱 Currently leveling up
-
-```swift
-let currentlyImproving = [
-    "Advanced SwiftUI",
-    "iOS architecture",
-    "Testing strategies",
-    "CI/CD",
-    "Design Systems",
-    "English for international dev meetings 🌎"
-]
-```
+I work mostly with **Swift, SwiftUI and UIKit**, and I enjoy the engineering decisions that live beyond the screen itself: state management, concurrency, reusable components, architecture, APIs, testing and the endless question of *"how do we make this cleaner?"*
 
 <details>
-<summary><b>🎮 Developer status</b></summary>
+<summary><b>🧰 Open my toolbox</b></summary>
 <br/>
 
-```text
-☑ Build iOS apps
-☑ Spend suspicious amounts of time naming things
-☑ Refactor code that was "already working"
-☑ Care way too much about spacing
-☑ Open Xcode
-☑ Question life choices after Xcode indexing
-☐ Stop adding new ideas to side projects
-```
+**iOS**  
+`Swift` · `SwiftUI` · `UIKit` · `Objective-C` · `Combine` · `async/await` · `URLSession` · `AVFoundation`
 
-That last one isn't happening.
+**Architecture & engineering**  
+`MVVM` · `MVVM-C` · `Clean Architecture` · `REST APIs` · `Design Systems` · `Testing`
 
-</details>
+**Workflow**  
+`Git` · `GitHub` · `GitHub Actions` · `Fastlane` · `Firebase`
 
-<details>
-<summary><b>☕ Important developer fact</b></summary>
-<br/>
-
-Everyone keeps putting coffee in developer bios.
-
-I don't even like coffee. 😂
-
-So this README runs on **Swift, stubbornness and questionable amounts of ideas** instead.
+**Occasional side quests outside Apple land**  
+`React` · `TypeScript` · `JavaScript` · `HTML` · `CSS`
 
 </details>
 
 ---
 
-## 💜 A little more about my developer brain
+## 🚀 What I'm building now
 
-```text
-Design brain 🎨
-       +
-Engineering brain 👩🏻‍💻
-       +
-"but what happens in this edge case?" brain 🧠
-       =
-me
-```
+### 🔎 [GitHubExplorer-iOS](https://github.com/camilarock11/GitHubExplorer-iOS)
 
-I enjoy understanding the **whole experience**, not just making a screen compile.
+A GitHub client I'm building as part of a bigger goal: creating **substantial iOS portfolio projects that feel like real products**, not isolated tutorial exercises.
 
-Architecture, user experience, maintainability and product behavior all matter.
+The fun part isn't just making a screen work. It's thinking about structure, states, APIs, reusable components, failure scenarios, maintainability and all the decisions that show up when a project starts becoming *real*.
+
+<a href="https://github.com/camilarock11/GitHubExplorer-iOS">
+<img src="https://img.shields.io/badge/Explore_GitHubExplorer--iOS-7B2CBF?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 ---
 
-## 🤝 Let's connect
+## 🧠 How my brain usually works
+
+```text
+"I have an idea."
+        ↓
+"This should be simple."
+        ↓
+opens Xcode / Notes / Figma / seventeen tabs
+        ↓
+"Okay... what if we made it better?"
+        ↓
+new project unlocked ✨
+```
+
+I like understanding **why** something works, not only getting it to compile.
+
+That usually means I care a little too much about architecture, naming, edge cases, UX, visual consistency and the sentence someone is going to read on a screen for half a second.
+
+And yes, I will probably refactor the thing that was already working. 😌
+
+---
+
+## ✍🏻 Outside Xcode
+
+<details>
+<summary><b>There's more than code in here</b></summary>
+<br/>
+
+I write because some ideas don't belong in an app.
+
+I create because some ideas don't belong only in my head.
+
+I like design because details change how something feels.
+
+And I'm endlessly curious, which is a very elegant way of saying I can turn almost anything into a new project. 😂
+
+Also, despite what every developer bio on the internet suggests: **I don't like coffee.**
+
+</details>
+
+---
+
+## 🤝 Find me around the internet
 
 <div align="center">
 
@@ -279,9 +177,12 @@ Architecture, user experience, maintainability and product behavior all matter.
 
 <br/><br/>
 
-### `while (!success) { tryAgain() }`
+### `code is one way to create.`
+### `words are another.`
 
-<sub>Built with Swift energy, design obsession and an unreasonable number of ideas. 💜</sub>
+<sub>Usually powered by curiosity, stubbornness and far too many ideas. 💜</sub>
+
+<br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,18,14,12&height=120&section=footer" />
 
